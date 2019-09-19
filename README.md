@@ -5,11 +5,18 @@
 3. Clicking "Add" button should add the item to the list
 4. The newly added item should fade-in
 
+**NOTE: This above exercise should be done in vanilla Javascript only**
+#### Here's how it might look like
+
+![alt text](https://media.giphy.com/media/efUnvISecuesh2aKVB/giphy.gif )
+
+
 
 ## Problem 2: Country - State drop down selection
 
 1. Select the country in "Country" dropdown
 2. This should enable the second dropdown for "State" with options for the selected Country
 
-Both problems should be done in vanilla JS. Solve this on [codepen](http://codepen.io) and send me the link. 
+**NOTE: This needs to be built in React**
+
 Feel free to email me if you have questions, manohar.srinivasa@tesco.com
