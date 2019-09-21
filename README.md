@@ -17,6 +17,6 @@
 1. Select the country in "Country" dropdown
 2. This should enable the second dropdown for "State" with options for the selected Country
 
-**NOTE: This needs to be built in React**
+**NOTE: This needs to be built in React, Pick any 3 countries and 3 states in each country for your mock data**
 
 Feel free to email me if you have questions, manohar.srinivasa@tesco.com
