@@ -5,7 +5,7 @@
 3. Clicking "Add" button should add the item to the list
 4. The newly added item should fade-in
 
-**NOTE: This above exercise should be done in vanilla Javascript only**
+**NOTE: This above exercise should be done in vanilla Javascript,html,css only. No fancy libraries, css frameworks allowed**
 #### Here's how it might look like
 
 ![alt text](https://media.giphy.com/media/efUnvISecuesh2aKVB/giphy.gif )
